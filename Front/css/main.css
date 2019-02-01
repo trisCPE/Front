@@ -1,13 +1,18 @@
 @import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
 
 
+#line-chart-error{
+    margin-left: 70px;
+}
+
 .card-body{
-	height: 1.5em;
-	margin-left: 10px;
+	height: 2em;
+    background-color: #fff;
 }
 
 .card-text{
-	margin-bottom: 50px;
+	margin-bottom: 10px;
+    font-size: 14px;
 }
 
 .infobulle{
